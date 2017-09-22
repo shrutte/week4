@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="mode" type="id" />
+    <item name="week4" type="id" />
+    <item name="pacifico" type="id" />
+    <item name="amatic" type="id" />
+</resources>
